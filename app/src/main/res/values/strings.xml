@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TransportRecognition</string>
+    <string name="airplane">飞机</string>
+    <string name="bus">公交</string>
+    <string name="car">小汽车</string>
+    <string name="coach">大巴</string>
+    <string name="metro">地铁</string>
+    <string name="train">火车</string>
+    <string name="take_audio_error">请选择交通工具类型, 再进行采集!</string>
+    <string name="AudioRecord_error">本次测试的音频录制时间不够, 测试无效!</string>
+</resources>
